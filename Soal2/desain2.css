@@ -1,0 +1,111 @@
+    .A {
+  text-align: center;
+  padding-top: 1cm;
+}
+
+    .IMG {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* Paragraf*/
+/* Container paragraf di tengah */
+.artikel {
+  width: 75%;
+  margin: 50px auto;
+}
+
+/* Teks utama */
+
+.artikel p {
+  text-align: justify;
+  font-family: "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.8;
+  color: black;
+}
+
+/* Style span sesuai gambar */
+
+.link {
+  color: #1a5cff;
+  text-decoration: underline;
+}
+
+.hijau-miring {
+  color: #6aa84f;
+  font-style: italic;
+}
+
+.biru {
+  color: #1a5cff;
+}
+
+.merah {
+  color: red;
+}
+
+.miring {
+  font-style: italic;
+}
+
+    .garis {
+        border: none;
+        height: 2px;
+        background-color: black;
+        width: 70%;          
+        margin: 20px auto;
+        }
+        
+        .data-table {
+  border-collapse: collapse;
+  margin: 30px auto;
+  font-family: Arial, sans-serif;
+}
+
+.data-table th,
+.data-table td {
+  border: 1px solid #000000;
+  padding: 10px;
+  min-width: 80px;
+  text-align: center;
+}
+
+/* Header */
+.data-table th {
+  background-color: #97a9b4;
+}
+
+/* DATA kiri */
+.data {
+  background: black;
+  color: white;
+  font-weight: bold;
+}
+
+/* Warna sel */
+.yellow { background: yellow; }
+.red { background: red; }
+.gray { background: #bfbfbf; }
+.green { background: #5b8c3b; }
+.black { background: black; }
+
+/* Sum */
+.sum {
+  background: #bfcad8;
+  font-weight: bold;
+}
+
+/* Total */
+.total {
+  background: #7a2ca3;
+  color: black;
+  font-weight: bold;
+}
+
+
+
+
+
+   
+ 
